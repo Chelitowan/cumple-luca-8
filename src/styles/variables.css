@@ -1,0 +1,28 @@
+:root {
+  /* Paleta inspirada en aventura y monstruitos de bolsillo: azul eléctrico
+     de cielo, amarillo rayo, rojo entrenador y verde pasto como chispa. */
+  --azul-cielo: #2E86DE;
+  --azul-oscuro: #14315C;
+  --amarillo-sol: #FFCB05;
+  --rosa-chicle: #E3350D;
+  --violeta: #2E86DE;
+  --verde-lima: #78C850;
+  --crema: #FFF8EC;
+  --blanco: #FFFFFF;
+  --texto: #26324A;
+
+  --radio-grande: 32px;
+  --radio-chico: 18px;
+  --sombra: 0 10px 24px rgba(14, 92, 115, 0.18);
+
+  --fuente-titulo: "Baloo 2", "Fredoka", system-ui, sans-serif;
+  --fuente-texto: "Nunito", system-ui, sans-serif;
+
+  --ancho-maximo: 480px;
+}
+
+@media (min-width: 900px) {
+  :root {
+    --ancho-maximo: 720px;
+  }
+}

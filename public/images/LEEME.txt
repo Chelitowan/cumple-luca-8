@@ -1,0 +1,7 @@
+Poné acá tus imágenes:
+
+- luca.jpg  -> foto de Luca para la portada (se muestra redonda, se recomienda que sea cuadrada)
+- Cualquier imagen de Pokémon que ya tengas con derecho de uso personal (por ejemplo pokemon-hero.png)
+  y avisale a Claude el nombre exacto del archivo para conectarla en el código.
+
+Si "luca.jpg" no existe, la portada muestra automáticamente un ícono ⚡🎮⚡ en su lugar.
